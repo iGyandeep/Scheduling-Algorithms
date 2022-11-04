@@ -1,0 +1,6 @@
+#FCFS (First Come First Serve) Scheduling Algorithm:
+> It is a scheduling algorithm to schedule the processes.
+> It comes under the Non-Preemptive Scheduling Algorithm.
+> In FCFS, the process who is comming first in ready queue that will execute first.
+> The execution of the process depends upon the arrival time of the process.
+> If two or more processes arrives at same time then the OS will select the process for execution randomly.
