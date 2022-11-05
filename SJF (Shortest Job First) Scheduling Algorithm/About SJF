@@ -1,0 +1,6 @@
+#SJF (Sortest Job First) Scheduling Algorithm:
+> It comes under the Non-Preemptive Scheduling Algorithm.
+> According to CPU Brust, the process are arranged in ready queue.
+> The process has low CPU Brust that will execute first.
+> Process selection criteria based on BPU Brust.
+> If the two or more process has same CPU Brust then selection criteria is based on FCFS basis.
