@@ -46,8 +46,8 @@ void sort(int p[][6], int n) {
 //Turnaround Function
 void turnAroundTime(int p[][6], int n) {
 	int temp = 0, i;
-	if (p[0][1] != 0) {
-		temp = 1
+	if (p[0][1] > 0) {
+		temp = p[0][1];
 	}
 	for (i=0; i<n; i++) {
 		p[i][4] = (p[i][2] + p[i][3] + temp) - p[i][1];
